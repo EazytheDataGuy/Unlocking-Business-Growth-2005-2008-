@@ -67,7 +67,7 @@ Some products did well right out of the gate, while others barely sold.
 - **The highest-selling product by quantity** was **Water Bottle - 30 oz**, which sold over **4244 units** across the years.
 
 ### The Customers Behind the Sales:
-- **Total number of customers**: Over **100,000** customers were part of the sales journey, with a significant portion of them being repeat buyers.
+- **Total number of customers**: Over **60,000** customers were part of the sales journey, with a significant portion of them being repeat buyers.
 - **Top customers by revenue**: The **top 10 customers** alone generated over **$132,035** in sales and surprisingly, all of them were from **France**.
 - **Top customers by quantity**: The **top 10 customers by quantity** had a strong purchasing frequency, though they were not the same customers who generated the highest revenue.
 
